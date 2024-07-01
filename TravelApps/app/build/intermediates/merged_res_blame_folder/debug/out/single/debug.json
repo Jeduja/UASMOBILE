@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable_header.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_ic_fail.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-hdpi\\ic_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi-v24_bg_home_wave.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-anydpi-v24\\bg_home_wave.xml"
+    },
+    {
+        "merged": "com.azhar.travel.app-merged_res-13:/layout_activity_register.xml.flat",
+        "source": "com.azhar.travel.app-main-15:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-mdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_book_kereta.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xhdpi\\book_kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi_book_kereta.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-anydpi\\book_kereta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.azhar.travel.app-merged_res-13:/layout_activity_login.xml.flat",
+        "source": "com.azhar.travel.app-main-15:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\layout_list_item_booking.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\layout\\list_item_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_book_kereta.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-mdpi\\book_kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi_ic_person.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-anydpi\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_book_hotel.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-mdpi\\book_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-ldpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-ldpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi_ic_success.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-anydpi\\ic_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_book_hotel.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-hdpi\\book_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\layout_activity_book_kereta.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\layout\\activity_book_kereta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi_ic_date.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-anydpi\\ic_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi_notification.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-anydpi\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-ldpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-ldpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_ic_success.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xhdpi\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_ic_fail.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xxhdpi\\ic_fail.png"
+    },
+    {
+        "merged": "com.azhar.travel.app-merged_res-13:/layout_activity_profile.xml.flat",
+        "source": "com.azhar.travel.app-main-15:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_ic_fail.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xhdpi\\ic_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-xhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_book_kereta.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-hdpi\\book_kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-xxhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "com.azhar.travel.app-merged_res-13:/layout_activity_main.xml.flat",
+        "source": "com.azhar.travel.app-main-15:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable_bg_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable\\bg_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_ic_date.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-hdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_ic_fail.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-mdpi\\ic_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi-v24_bg_home_curve.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-anydpi-v24\\bg_home_curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_book_hotel.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xxhdpi\\book_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_ic_date.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xxhdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable_button_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable\\button_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_book_kereta.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xxhdpi\\book_kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-hdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi_ic_fail.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-anydpi\\ic_fail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_ic_success.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-hdpi\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-mdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxxhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-xxxhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_notification.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi_book_hotel.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-anydpi\\book_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_ic_success.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-mdpi\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxxhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-xxxhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-xhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-hdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-pngs-9:\\drawable-xxhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable_circletransparant.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable\\circletransparant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_ic_date.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-mdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_ic_date.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xhdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-hdpi_notification.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_ic_success.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xxhdpi\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_notification.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-xhdpi_book_hotel.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-xhdpi\\book_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-merged_res-13:\\drawable-anydpi_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.2\\com.azhar.travel.app-main-15:\\drawable-anydpi\\profile.xml"
+    }
+]

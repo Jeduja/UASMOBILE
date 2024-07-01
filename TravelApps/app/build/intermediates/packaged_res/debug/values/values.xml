@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#151515</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#87D1A2</color>
+    <color name="colorPrimaryDark">#6BB98B</color>
+    <color name="gray">#dfdfdf</color>
+    <color name="white">#ffffff</color>
+    <string name="after_register">Sudah memiliki akun? <font color="red">Login Sekarang</font></string>
+    <string name="app_name">Travel</string>
+    <string name="batal">Batal</string>
+    <string name="button_not_register">Tidak memiliki akun? <font color="red">Daftar Sekarang</font></string>
+    <string name="keluar">Keluar</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
